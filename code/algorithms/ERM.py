@@ -16,6 +16,7 @@ from utils.logger import Get_Logger
 from data import *
 from tqdm import tqdm
 
+
 class ERM_Trainer(Base_Trainer):
     def __init__(self, args) -> None:
         self.trainer_name = self.__class__.__name__
