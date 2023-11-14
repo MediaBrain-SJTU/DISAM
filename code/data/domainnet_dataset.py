@@ -1,10 +1,3 @@
-'''
-2023.3.17
-重构data部分
-2023.4.20
-考虑validate set部分使用open class + seen class 即只有train部分使用一半的数据
-'''
-
 import sys
 sys.path.append(sys.path[0].replace('code/data', 'code'))
 import os

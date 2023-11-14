@@ -1,15 +1,3 @@
-'''
-2023.5.18
-非clip的传统MSDG
-同样继承自zero-shot
-修改model部分 train部分
-其余保持不变
-
-2023.6.1 全面复刻domainbed的实验参数设定
-同样进行5个数据集上的实验 只做MSDG
-
-'''
-
 import sys
 sys.path.append(sys.path[0].replace('algorithms', ''))
 import torch

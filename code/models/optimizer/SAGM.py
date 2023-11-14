@@ -197,7 +197,6 @@ class SAGM(torch.optim.Optimizer):
     
     
 class MySAGM(SAGM):
-    '''和之前一样分为两个step'''
     @torch.no_grad()
     def first_step(self, zero_grad=False):
         self.perturb_weights(rho=self.rho_t)
