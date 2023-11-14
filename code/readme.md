@@ -3,7 +3,7 @@
 ## Environment Requirements
 
 - Python 3.9.5
-- PyTorch 1.0.1
+- PyTorch 2.0.1
 
 ## Dataset
 
