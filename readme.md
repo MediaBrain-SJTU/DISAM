@@ -2,6 +2,8 @@
 
 This repository contains the implementation details for the paper "Domain-Inspired Sharpness-Aware Minimization Under Domain Shifts," accepted at the International Conference on Learning Representations (ICLR) 2024.
 
+![poster image](./DISAM_poster_online.png)
+
 ## Environment Requirements
 
 ![Language](https://img.shields.io/badge/language-python-brightgreen)
